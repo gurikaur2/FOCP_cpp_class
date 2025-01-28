@@ -6,14 +6,14 @@ using namespace std;
 
 int main ()
 {
-    int i;
+    int i,j;
     cout<<"Enter a number:";
     cin>>i;
     do
     {
-        i%2;
-    } while (i%2==0);
-    cout<<"The binary conversion of the given number= "
+       j= m i%2;
+    } while (i/2==0);
+    cout<<"The binary conversion of the given number= ";
     
     
     return 0;
