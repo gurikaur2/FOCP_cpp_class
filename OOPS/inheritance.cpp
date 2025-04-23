@@ -8,7 +8,7 @@ class A
     protected:
     int v2;
     public:
-    A():v1(0),v2(0)
+    A():v1(0),v2(0)//initialisation list
     {
         cout<<"A default constructor called."<<endl;
     }
