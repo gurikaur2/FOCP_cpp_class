@@ -1,14 +1,9 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
 int main ()
 {
-    int i=10,j=20;
-    cout<<"Hello World!"<<endl;
-    cout<<"C++ coding "<<i<< " "<<j<<endl;
-
-
-
+    cout<<"Hello"<<endl;
     return 0;
 }
